@@ -1,0 +1,21 @@
+.*{
+
+}
+.containner{
+	width: 811px;
+	height: auto;
+	margin: 0;
+	padding: 0;
+}
+.banner{
+	width: 811px;
+	height: 611px;
+	margin: 0;
+	padding: 0;
+}
+.navbar{
+	width: 811px;
+	height: 80px;
+	margin: 0;
+	padding: 0;
+}
